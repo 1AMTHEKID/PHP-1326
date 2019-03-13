@@ -48,7 +48,7 @@ $j = "\"T";
 $k = "ry and fail";
 $l = ", but never ";
 $m = "fail to try.\"";
-$n = "-" . $cursiveStart. "Tyra Banks" . $cursiveEnd;
+$n = "- " . $cursiveStart. "Tyra Banks" . $cursiveEnd;
 
 echo $j.$k.$l.$m."<br>".$n."<br><br>";
 
@@ -58,7 +58,7 @@ $o = "\"De cursus \"omgaan ";
 $p = "met";
 $q = " teleu";
 $r = "rstellingen\" kan vanavond helaas niet doorgaan.\"";
-$s = "-". $cursiveStart. "Herman Finkers". $cursiveEnd;
+$s = "- ". $cursiveStart. "Herman Finkers". $cursiveEnd;
 
 echo $o.$p.$q.$r."<br>".$s
 
